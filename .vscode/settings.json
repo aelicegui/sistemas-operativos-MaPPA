@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "memoria.h": "c",
+        "socket.h": "c",
+        "sockets.h": "c",
+        "stdlib.h": "c",
+        "pthread.h": "c",
+        "stdio.h": "c"
+    }
+}
